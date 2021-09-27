@@ -317,6 +317,7 @@
 "Assets/Scripts/Bullet.cs"
 "Assets/Scripts/BulletTarget.cs"
 "Assets/Scripts/CrossHair.cs"
+"Assets/Scripts/EnemyActions.cs"
 "Assets/Scripts/HeadBob.cs"
 "Assets/Scripts/MouseLook.cs"
 "Assets/Scripts/ObjectPool.cs"
