@@ -323,5 +323,6 @@
 "Assets/Scripts/MouseLook.cs"
 "Assets/Scripts/ObjectPool.cs"
 "Assets/Scripts/PlayerMotion.cs"
+"Assets/Scripts/PlayerStats.cs"
 "Assets/Scripts/ShootGun.cs"
 "Assets/Scripts/SpawnEnemies.cs"
